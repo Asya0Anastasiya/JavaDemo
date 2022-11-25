@@ -1,0 +1,20 @@
+
+‚
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¯ÓŸşÿÿÿÿ8Ñ¶™”Ç0HôRMINORZ
+CODE_SMELL
+y
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(×Òš¯8Ñ¶™”Ç0HöRCRITICALZVULNERABILITY
+~
+java:S1128"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—Öùÿÿÿÿ8Ñ¶™”Ç0H÷RMINORZ
+CODE_SMELL
+†
+java:S4488%"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(¨øÅòşÿÿÿÿ8Ñ¶™”Ç0HùRMINORZ
+CODE_SMELL
+€
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ŸÄ¡´øÿÿÿÿ8Ñ¶™”Ç0HûRMINORZ
+CODE_SMELL
+€
+java:S4488 "HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(‰™·ıÿÿÿÿ8Ñ¶™”Ç0HıRMINORZ
+CODE_SMELL
+x
+java:S4684!"@Replace this persistent entity with a simple POJO or DTO object.(Šç´E8Ñ¶™”Ç0HÿRCRITICALZVULNERABILITY
